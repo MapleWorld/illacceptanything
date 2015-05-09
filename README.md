@@ -30,7 +30,7 @@ every Pull Request submitted and see what happens.
  * Nothing illegal.
  * Can't violate GitHub terms of service.
  * Don't mess with the LICENSE file - we kind of need that intact!
- * Don't be a [dick](https://github.com/illacceptanything/illacceptanything/blob/master/data/dickbutt.dickbutt), or any other copulatory organ. This includes:
+ * Don't be a [dick](https://github.com/illacceptanything/illacceptanything/blob/master/dickbutt.dickbutt), or any other copulatory organ. This includes:
     - [Trying](https://github.com/illacceptanything/illacceptanything/pull/463) [to](https://github.com/illacceptanything/illacceptanything/pull/498) [delete](https://github.com/illacceptanything/illacceptanything/pull/545) [everything](https://github.com/illacceptanything/illacceptanything/pull/308) [in](https://github.com/illacceptanything/illacceptanything/pull/259) [the](https://github.com/illacceptanything/illacceptanything/pull/131) [repository](https://github.com/illacceptanything/illacceptanything/pull/396).
     - [Uploading](https://github.com/illacceptanything/illacceptanything/pull/423) [malicious](https://github.com/illacceptanything/illacceptanything/pull/404) [code](https://github.com/illacceptanything/illacceptanything/pull/492)
     - s/anything/nothing/: [#292](https://github.com/illacceptanything/illacceptanything/pull/292) [#340](https://github.com/illacceptanything/illacceptanything/pull/340)
@@ -92,3 +92,26 @@ Repo so big, takes forever to download
     \___)=(___/
 
 ```
+## Der Ulf war hier
+
+## Holy Religion of the Internet (besides porn)
+![](http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg)
+
+## Best meme on the interwebz ⬇
+![](http://weknowmemes.com/wp-content/uploads/2012/01/if-you-touch-my-virginity-ill-stab-you.jpg)
+
+![](http://www.ceolato.com/html/_images/python_powered.png) ![](http://media.giphy.com/media/2gFM7CtCNfzP2/giphy.gif)
+
+![](https://media.giphy.com/media/wPrqe5846Z9GU/giphy.gif)
+<br>
+![](https://31.media.tumblr.com/tumblr_m403dltfk91qmb7u4o2_500.gif)
+<br>
+![](https://38.media.tumblr.com/075ba126e507d5643cb2dee8ab18c6a7/tumblr_inline_mykjwj3Ej61rc3of7.gif)
+<br>
+![](http://img2.wikia.nocookie.net/__cb20121028051340/tfsrox/images/c/c4/Tumblr_m403dltfk91qmb7u4o1_250.gif)
+<br>
+![](https://media.giphy.com/media/12ri8ebjE91pQY/giphy.gif)
+<br>
+![](https://31.media.tumblr.com/tumblr_m5ldirNQ3b1qjenx9.gif
+<br>
+![](http://www.gifsforum.com/images/gif/fuk%20everything/grand/fuk-everything-eccbc87e4b5ce2fe28308fd9f2a7baf3-1392.gif)
